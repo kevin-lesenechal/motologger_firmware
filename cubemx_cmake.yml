@@ -1,0 +1,13 @@
+modules:
+  - stm32f412zx
+  - bsp.stm32412g.sd
+  - hal.can
+  - hal.cortex
+  - hal.flash
+  - hal.pwr
+  - hal.uart
+  - hal.sd
+  - hal.i2c
+  - hal.tim
+  - hal.rtc
+  - fatfs.sd
